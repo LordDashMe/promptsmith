@@ -9,3 +9,5 @@ A curated collection of AI prompts to spark creativity and tackle complex tasks.
 - [Pixar Storytelling Formula](pixar-storytelling-formula.md)
 
 - [Learn any topic 10 times faster](learn-any-topic-10-times-faster.md)
+
+- [Customized study roadmap](customized-study-roadmap.md)
