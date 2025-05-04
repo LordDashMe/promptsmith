@@ -11,3 +11,5 @@ A curated collection of AI prompts to spark creativity and tackle complex tasks.
 - [Learn any topic 10 times faster](learn-any-topic-10-times-faster.md)
 
 - [Customized study roadmap](customized-study-roadmap.md)
+
+- [Strategy synthesizer](strategy-synthesizer.md)
