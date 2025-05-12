@@ -15,3 +15,5 @@ A curated collection of AI prompts to spark creativity and tackle complex tasks.
 - [Strategy synthesizer](strategy-synthesizer.md)
 
 - [Instant Course Designer](instant-course-designer.md)
+
+- [Document Translator](document-translator.md)
