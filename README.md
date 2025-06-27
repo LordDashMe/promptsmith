@@ -17,3 +17,7 @@ A curated collection of AI prompts to spark creativity and tackle complex tasks.
 - [Instant Course Designer](instant-course-designer.md)
 
 - [Document Translator](document-translator.md)
+
+- [Custom Chat Starter Template](custom-chat-starter-template.md)
+
+- [Custom Instruction Template](custom-instruction-template.md)
