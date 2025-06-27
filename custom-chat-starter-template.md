@@ -1,4 +1,4 @@
-## Custom Chat Starter Template
+# Custom Chat Starter Template
 
 Use this template to kick off any AI model session. Just copy, fill in your specifics, and paste as your first message.
 
