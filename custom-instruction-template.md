@@ -1,6 +1,6 @@
 # Custom Instruction Template
 
-Use this template to quickly fill in and generate your custom instruction prompts for ChatGPT.  
+Use this template to quickly fill in and generate your custom instruction prompts for any AI model session.  
 Below each section, choose from common examples or write your own custom description.
 
 ## 1. Project or Business Context
